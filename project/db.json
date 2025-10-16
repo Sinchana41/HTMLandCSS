@@ -1,0 +1,49 @@
+{
+  "people": [
+    {
+      "id": "c5b1",
+      "fullName": "rohith",
+      "phoneNumber": "7396969347",
+      "address": "banglore",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zipCode": "515231"
+    },
+    {
+      "id": "a7f3",
+      "fullName": "Sinchana",
+      "phoneNumber": "7411096862",
+      "address": "ABC",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zipCode": "577549"
+    },
+    {
+      "id": "78fe",
+      "fullName": "Sushma",
+      "phoneNumber": "7411096862",
+      "address": "ABC",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zipCode": "577456"
+    },
+    {
+      "id": "deb8",
+      "fullName": "Shyam",
+      "phoneNumber": "7411096862",
+      "address": "ABC",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zipCode": "56689"
+    },
+    {
+      "id": "3e67",
+      "fullName": "Seetha",
+      "phoneNumber": "7411096862",
+      "address": "ABC",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zipCode": "599011"
+    }
+  ]
+}
